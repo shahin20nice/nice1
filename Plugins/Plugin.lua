@@ -7,7 +7,7 @@ local function run(msg, matches)
 	for k,v in pairs(redis:smembers('Bot:Enable:Plugins')) do
 		text = text .. k ..' - ' .. v .. '\n'
 	end
- text = text .. '\n@SprCpu_Company' 
+ text = text .. '\n@PrimeTeam' 
  --
  tdcli.sendText(msg.chat_id_, msg.id_, 0, 1, nil, text, 1, 'md')
  end
