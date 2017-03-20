@@ -1,4 +1,4 @@
-	----------F80 Main Plugin By @Reload_Life
+	----------Anti_Spam Main Plugin By @SorBlack
 	--29/Dex/2016 --Start Writing ...
 	-----------------------------------------
 	-----------------------------------------
@@ -10,7 +10,7 @@
 	end
 Help = {
 En = {
-Sudo = '* F80 Sudos Help*\n'
+Sudo = '* Anti_Spam Sudos Help*\n'
 ..'`>`/add : *AddGroup To Administring Groups*\n'
 ..'`>`/rem : *RemGroup To Administring Groups*\n'
 ..'`>`/leave : *Bot Leaves Group*\n'
@@ -97,8 +97,8 @@ Sudo = '* F80 Sudos Help*\n'
 ..'`>`/fbc [msgID|Reply]\n'
 ..'`>`/lua [String]\n'
 ..'`>`/update [FA|En]\n'
-..'-- @SPRCPU\\_Company --',
-Admin = '* F80 Admins Help*\n'
+..'-- @PrimeTeam --',
+Admin = '* Anti_Spam Admins Help*\n'
 ..'`>`/add : *AddGroup To Administring Groups*\n'
 ..'`>`/rem : *RemGroup To Administring Groups*\n'
 ..'`>`/leave : *Bot Leaves Group*\n'
@@ -172,8 +172,8 @@ Admin = '* F80 Admins Help*\n'
 ..'`>`/Settings : *Shows Group Settings*\n'
 ..'`>`/Rules : *Shows Group Rules*\n'
 ..'`>`/Nerkh : *Shows Group Fee*\n'
-..'-- @SPRCPU\\_Company --',
-ExAdmin = '* F80 Extra Admins Help*\n'
+..'-- @PrimeTeam --',
+ExAdmin = '* Anti_Spam Extra Admins Help*\n'
 ..'`>`/ID [_Reply|@Username|UserID_]: *Get Target UserID*\n'
 ..'`>`/Link Del : *Set Link Posting Stats On Clean*\n'
 ..'`>`/Link Kick : *Set Link Posting Stats On KickUser*\n'
@@ -243,8 +243,8 @@ ExAdmin = '* F80 Extra Admins Help*\n'
 ..'`>`/Settings : *Shows Group Settings*\n'
 ..'`>`/Rules : *Shows Group Rules*\n'
 ..'`>`/Nerkh : *Shows Group Fee*\n'
-..'-- @SPRCPU\\_Company --',
-Mod = '* F80 GroupModerators Help*\n'
+..'-- @PrimeTeam --',
+Mod = '* Anti_Spam GroupModerators Help*\n'
 ..'`>`/ID [_Reply|@Username|UserID_]: *Get Target UserID*\n'
 ..'`>`/Link Del : *Set Link Posting Stats On Clean*\n'
 ..'`>`/Link Kick : *Set Link Posting Stats On KickUser*\n'
@@ -311,11 +311,11 @@ Mod = '* F80 GroupModerators Help*\n'
 ..'`>`/Settings : *Shows Group Settings*\n'
 ..'`>`/Rules : *Shows Group Rules*\n'
 ..'`>`/Nerkh : *Shows Group Fee*\n'
-..'-- @SPRCPU\\_Company --',
-Member = '`>`/Rules : *Show Group Rules*\n`>`/Nerkh : *Show Group Fee*\n`>`@SPRCPU\\_Company'
+..'-- @PrimeTeam --',
+Member = '`>`/Rules : *Show Group Rules*\n`>`/Nerkh : *Show Group Fee*\n`>`@PrimeTeam'
  },
 Fa = {
-Sudo = '* F80 Sudos Help*\n'
+Sudo = '* Anti_Spam Sudos Help*\n'
 ..'`>`/add : *AddGroup To Administring Groups*\n'
 ..'`>`/rem : *RemGroup To Administring Groups*\n'
 ..'`>`/leave : *Bot Leaves Group*\n'
@@ -402,8 +402,8 @@ Sudo = '* F80 Sudos Help*\n'
 ..'`>`/fbc [msgID|Reply]\n'
 ..'`>`/lua [String]\n'
 ..'`>`/update [FA|En]\n'
-..'-- @SPRCPU\\_Company --',
-Admin = '* F80 Admins Help*\n'
+..'-- @PrimeTeam --',
+Admin = '* Anti_Spam Admins Help*\n'
 ..'`>`/add : *اضافه کردن گروه*\n'
 ..'`>`/rem : *حذف گروه*\n'
 ..'`>`/leave : *ترک گروه*\n'
@@ -477,8 +477,8 @@ Admin = '* F80 Admins Help*\n'
 ..'`>`/Settings : *تنظیمات گروه*\n'
 ..'`>`/Rules : *قوانین*\n'
 ..'`>`/Nerkh : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-ExAdmin = '* F80 Extra Admins Help*\n'
+..'-- @PrimeTeam --',
+ExAdmin = '* Anti_Spam Extra Admins Help*\n'
 ..'`>`/ID [ریپلی|یوزرنیم|یوزرایدی]: *دریافت ایدی فرد مورد نظر*\n'
 ..'`>`/Link Del : *حذف لینک ها*\n'
 ..'`>`/Link Kick : *حذف لینک ها + اخراج کاربر*\n'
@@ -546,8 +546,8 @@ ExAdmin = '* F80 Extra Admins Help*\n'
 ..'`>`/Settings : *تنظیمات گروه*\n'
 ..'`>`/Rules : *قوانین*\n'
 ..'`>`/Nerkh : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-Mod = '* F80 GroupModerators Help*\n'
+..'-- @PrimeTeam --',
+Mod = '* Anti_Spam GroupModerators Help*\n'
 ..'`>`/ID [ریپلی|یوزرنیم|یوزرایدی]: *دریافت ایدی فرد مورد نظر*\n'
 ..'`>`/Link Del : *حذف لینک ها*\n'
 ..'`>`/Link Kick : *حذف لینک ها + اخراج کاربر*\n'
@@ -611,14 +611,14 @@ Mod = '* F80 GroupModerators Help*\n'
 ..'`>`/Settings : *تنظیمات گروه*\n'
 ..'`>`/Rules : *قوانین*\n'
 ..'`>`/Nerkh : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-Member = '`>`/Rules : *نمایش قوانین*\n`>`/Nerkh : *نمایش قوانین گروه*\n`>`@SPRCPU\\_Company'
+..'-- @PrimeTeam --',
+Member = '`>`/Rules : *نمایش قوانین*\n`>`/Nerkh : *نمایش قوانین گروه*\n`>`@PrimeTeam'
  },
 }
 
 
 FaH = {
-Sudo = '* F80 Sudos Help*\n'
+Sudo = '* Anti_Spam Sudos Help*\n'
 ..'`>`/add : *AddGroup To Administring Groups*\n'
 ..'`>`/rem : *RemGroup To Administring Groups*\n'
 ..'`>`/leave : *Bot Leaves Group*\n'
@@ -705,8 +705,8 @@ Sudo = '* F80 Sudos Help*\n'
 ..'`>`/fbc [msgID|Reply]\n'
 ..'`>`/lua [String]\n'
 ..'`>`/update [FA|En]\n'
-..'-- @SPRCPU\\_Company --',
-Admin = '* F80 Admins Help*\n'
+..'-- @PrimeTeam --',
+Admin = '* Anti_Spam Admins Help*\n'
 ..'`>`/add : *اضافه کردن گروه*\n'
 ..'`>`/rem : *حذف گروه*\n'
 ..'`>`/leave : *ترک گروه*\n'
@@ -780,8 +780,8 @@ Admin = '* F80 Admins Help*\n'
 ..'`>`#تنظیمات : *تنظیمات گروه*\n'
 ..'`>`#قوانین : *قوانین*\n'
 ..'`>`#نرخ : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-ExAdmin = '* F80 Extra Admins Help*\n'
+..'-- @PrimeTeam --',
+ExAdmin = '* Anti_Spam Extra Admins Help*\n'
 ..'`>`#ایدی [ریپلی|یوزرنیم|یوزرایدی]: *دریافت ایدی فرد مورد نظر*\n'
 ..'`>`#لینک حذف : *حذف لینک ها*\n'
 ..'`>`#لینک اخراج : *حذف لینک ها + اخراج کاربر*\n'
@@ -849,8 +849,8 @@ ExAdmin = '* F80 Extra Admins Help*\n'
 ..'`>`#تنظیمات : *تنظیمات گروه*\n'
 ..'`>`#قوانین : *قوانین*\n'
 ..'`>`#نرخ : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-Mod = '* F80 GroupModerators Help*\n'
+..'-- @PrimeTeam --',
+Mod = '* Anti_Spam GroupModerators Help*\n'
 ..'`>`#ایدی [ریپلی|یوزرنیم|یوزرایدی]: *دریافت ایدی فرد مورد نظر*\n'
 ..'`>`#لینک حذف : *حذف لینک ها*\n'
 ..'`>`#لینک اخراج : *حذف لینک ها + اخراج کاربر*\n'
@@ -915,8 +915,8 @@ Mod = '* F80 GroupModerators Help*\n'
 ..'`>`#تنظیمات : *تنظیمات گروه*\n'
 ..'`>`#قوانین : *قوانین*\n'
 ..'`>`#نرخ : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-Member = '`>`#قوانین : *نمایش قوانین*\n`>`#نرخ : *نمایش قوانین گروه*\n`>`@SPRCPU\\_Company'
+..'-- @PrimeTeam --',
+Member = '`>`#قوانین : *نمایش قوانین*\n`>`#نرخ : *نمایش قوانین گروه*\n`>`@PrimeTeam'
  }
 		--
 		--VIP_GROUPS
@@ -1559,7 +1559,7 @@ end
 	end
 --Remove Groups--
 function rem_gp(msg, chat_id, user_id, username)
-	add = '*Group* '..chat_id..' *Hasbeen SuccsesFully Removed From* @SPRCPU\\_Company *Data Base.*'
+	add = '*Group* '..chat_id..' *Hasbeen SuccsesFully Removed From* @PrimeTeam *Data Base.*'
 	send_sup = '*Group *:`'..chat_id..'`\n'
 	..'*Remover* : '..(username or user_id)..'\n'
 	..'---------------------------'
@@ -1970,7 +1970,7 @@ end
 	---------------------------------------------------------------------------------------------------------
 	----------------------------- Finished Reply Functions :) After 5Hours :)) ------------------------------
 	---------------------------------------------------------------------------------------------------------
-	--#											@Reload_Life											  #--
+	--#											@SorBlack											  #--
 	---------------------------------------------------------------------------------------------------------
 	----------------------------------- Start UserID Actions :((((((((( -------------------------------------
 	---------------------------------------------------------------------------------------------------------
@@ -2366,7 +2366,7 @@ end
 	---------------------------------------------------------------------------------------------------------
 	----------------------------- Finished Reply Functions :) After 5Hours :)) ------------------------------
 	---------------------------------------------------------------------------------------------------------
-	--#											@Reload_Life											  #--
+	--#											@SorBlack											  #--
 	---------------------------------------------------------------------------------------------------------
 	----------------------------------- Start UserID Actions :((((((((( -------------------------------------
 	---------------------------------------------------------------------------------------------------------
@@ -2853,7 +2853,7 @@ end
 							if matches[1]:lower() == 'reload' and is_sudo(msg) then
 								plugins = {}
   								load_plugins()
-  								tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* `F80 Reloaded`', 1, 'md')
+  								tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* `Anti_Spam Reloaded`', 1, 'md')
 							end
 
 							--Promote To Sudo
@@ -2958,7 +2958,7 @@ end
 									redis:sadd('groups', '-100'..chid)
 									tdcli.sendText(RLM, 0, 0, 0, nil, send_sup, 0, 'md')
 									redis:setex('group:-100'..chid, time, true) --SetEx For Ttl
-									text = '*Group* `'..chid..'` *Hasbeen SuccsesFully Added To* @SPRCPU\\_Company *Data Base.*'
+									text = '*Group* `'..chid..'` *Hasbeen SuccsesFully Added To* @PrimeTeam *Data Base.*'
 								end
 								tdcli.sendText('-100'..chid, 0, 0, 0, nil, text, 0, 'md')
         						--Remove Group
@@ -3886,7 +3886,7 @@ end
 							.."\n`>` *"..lang(gid, 'LNG').." :* `"..(redis:get('lang:'..gid) or 'no').."`"
 							.."\n`>` *"..lang(gid, 'BOTS').." :* `"..(redis:get('bots:'..gid) or 'no').."`"
 							.."\n`>` *"..lang(gid, 'EXP').." :* `"..tonumber(math.floor((redis:ttl('group:'..gid) or '0')/ 60 / 60 / 24 + 1)).."`"
-							.."\n`>` @SPRCPU\\_Company"
+							.."\n`>` @PrimeTeam"
 							tdcli.sendText(chat_id, msg_id, 0, 1, nil, setting, 1, 'md')
 						end
 						if matches[1]:lower() == 'سنجاق' and is_mod(msg) then
@@ -4039,20 +4039,19 @@ end
 [[*نرخ گروه ها به شرح زیر است :*
 ---------------------
 *یک ماه *: `7000` تومان
-*پرداخت *: ppng.ir/d/9epw
+*پرداخت *: @SorBlack
 *در صورت پرداخت شارژ گروه شما 4 روز کمتر شارژ میگردد.*
 ---------------------
 *دو ماه *: `12000` تومان
-*پرداخت* :  ppng.ir/d/foBn
+*پرداخت* :  @SorBlack
 *در صورت پرداخت شارژ گروه شما 6 روز کمتر شارژ میگردد.*
 ---------------------
 *برای شارژ بیشتر گروه به *
-@Reload\_Life - @Reload\_LifeBOT
-@Arisharr
+@SorBlack
 *مراجعه کنید.*
 ---------------------
 *برای اطلاع از تخفیف های ویژه با کانال ما نیز سری بزنید. :P*
-@SPRCPU\_Company
+@PrimeTeam
 ]]
 								        if replymsg_id ~= 0 then
 								          msgid = replymsg_id
@@ -4065,10 +4064,10 @@ end
 
 											if matches[1]:lower() == 'markread' and is_admin(msg) then
 												if matches[2]:lower() == 'on' then
-													redis:set('read:f80', true)
+													redis:set('read:Anti_Spam', true)
 													tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* !!', 1, 'md')
 												elseif matches[2]:lower() == 'off' then
-													redis:del('read:f80')
+													redis:del('read:Anti_Spam')
 													tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* !!', 1, 'md')
 												end
 											end
@@ -4178,8 +4177,8 @@ end
    					   			doc = '/var/lib/redis/dump.rdb'
    					   			text = '<code>I\'ll Backed up </code><b> REDIS</b><code> To Your PV :)</code>'
    					   		elseif matches[2]:lower() == 'f80' then
-   					   			io.popen('tar -czf F80-back.tar.gz /root/BOT'):read('*all')
-   					   			doc = './F80-back.tar.gz'
+   					   			io.popen('tar -czf Anti_Spam-back.tar.gz /root/BOT'):read('*all')
+   					   			doc = './Anti_Spam-back.tar.gz'
    					   			text = '<code>I\'ll Backed up </code><b> F80</b><code> To Your PV :)</code>'
    					   		else
    					   			doc = matches[2]
@@ -4210,7 +4209,7 @@ end
 							if matches[1]:lower() == 'reload' and is_sudo(msg) then
 								plugins = {}
   								load_plugins()
-  								tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* `F80 Reloaded`', 1, 'md')
+  								tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* `Anti_Spam Reloaded`', 1, 'md')
 							end
 
 							--Promote To Sudo
@@ -4315,7 +4314,7 @@ end
 									redis:sadd('groups', '-100'..chid)
 									tdcli.sendText(RLM, 0, 0, 0, nil, send_sup, 0, 'md')
 									redis:setex('group:-100'..chid, time, true) --SetEx For Ttl
-									text = '*Group* `'..chid..'` *Hasbeen SuccsesFully Added To* @SPRCPU\\_Company *Data Base.*'
+									text = '*Group* `'..chid..'` *Hasbeen SuccsesFully Added To* @PrimeTeam *Data Base.*'
 								end
 								tdcli.sendText('-100'..chid, 0, 0, 0, nil, text, 0, 'md')
         						--Remove Group
@@ -5258,7 +5257,7 @@ end
 							.."\n`>` *"..lang(gid, 'LNG').." :* `"..(redis:get('lang:'..gid) or 'no').."`"
 							.."\n`>` *"..lang(gid, 'BOTS').." :* `"..(redis:get('bots:'..gid) or 'no').."`"
 							.."\n`>` *"..lang(gid, 'EXP').." :* `"..tonumber(math.floor((redis:ttl('group:'..gid) or '0')/ 60 / 60 / 24 + 1)).."`"
-							.."\n`>` @SPRCPU\\_Company"
+							.."\n`>` @PrimeTeam"
 							tdcli.sendText(chat_id, msg_id, 0, 1, nil, setting, 1, 'md')
 						end
 						if matches[1]:lower() == 'pin' and is_mod(msg) then
@@ -5404,20 +5403,19 @@ end
 [[*نرخ گروه ها به شرح زیر است :*
 ---------------------
 *یک ماه *: `7000` تومان
-*پرداخت *: ppng.ir/d/9epw
+*پرداخت *: @SorBlack
 *در صورت پرداخت شارژ گروه شما 4 روز کمتر شارژ میگردد.*
 ---------------------
 *دو ماه *: `12000` تومان
-*پرداخت* :  ppng.ir/d/foBn
+*پرداخت* :  @SorBlack
 *در صورت پرداخت شارژ گروه شما 6 روز کمتر شارژ میگردد.*
 ---------------------
 *برای شارژ بیشتر گروه به *
-@Reload\_Life - @Reload\_LifeBOT
-@Arisharr
+@SorBlack
 *مراجعه کنید.*
 ---------------------
 *برای اطلاع از تخفیف های ویژه با کانال ما نیز سری بزنید. :P*
-@SPRCPU\_Company
+@PrimeTeam
 ]]
 								        if replymsg_id ~= 0 then
 								          msgid = replymsg_id
@@ -5430,10 +5428,10 @@ end
 
 											if matches[1]:lower() == 'markread' and is_admin(msg) then
 												if matches[2]:lower() == 'on' then
-													redis:set('read:f80', true)
+													redis:set('read:Anti_Spam', true)
 													tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* !!', 1, 'md')
 												elseif matches[2]:lower() == 'off' then
-													redis:del('read:f80')
+													redis:del('read:Anti_Spam')
 													tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* !!', 1, 'md')
 												end
 											end
@@ -5995,6 +5993,6 @@ end
 
 				--[[ 
 					
-					#$ This Plugin Written With Love In @SprCpu_Company By @Reload_Life
+					#$ This Plugin Written With Love In @PrimeTeam By @SorBlack
 		
 				]]
