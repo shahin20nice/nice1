@@ -372,8 +372,8 @@ end
 --[[
 
 
-		# F80-Source By @Reload_Life #
-		# Source Written in @SprCpu_Company #
+		# Anti-Spam By @SorBlack
+		# Source Written in @PrimeTeam#
 		# :)
 		## :))
 		### :)))
