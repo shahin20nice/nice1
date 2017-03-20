@@ -22,8 +22,9 @@ chmod +x Install.sh
 ```
 
 ###How To Fast Install Bot?
-```cd $HOME && git clone https://github.com/SorBlackPlus/Anti_Spam.git && cd Anti_Spam && chmod +x Run.sh && chmod +x Install.sh && ./Run.sh && # Enter a phone number & confirmation code. #finish :)```
-
+```
+cd $HOME && git clone https://github.com/SorBlackPlus/Anti_Spam.git && cd Anti_Spam && chmod +x Run.sh && chmod +x Install.sh && ./Run.sh && # Enter a phone number & confirmation code. #finish :)
+```
 
 ### Set Bot **MainSudo**
 
