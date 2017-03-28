@@ -1483,9 +1483,9 @@ end
 	end
 end
 	---------------------------
-	local RLM = -100 -- Realm ID to Send Charge Panel ! (You Can Set A Privet)
-	local BOT = 0 -- Bot Id
-	local SUP = -100 -- SupportID
+	local RLM = 333677042 -- Realm ID to Send Charge Panel ! (You Can Set A Privet)
+	local BOT = 341497290 -- Bot Id
+	local SUP = 333677042 -- SupportID
 	--CallBacks
 	function getInputFile(file)
   		if file:match('/') then
