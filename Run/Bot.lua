@@ -10,7 +10,7 @@ redis = redis_server.connect('127.0.0.1', 6379)
 
 tdcli = dofile('./Run/tdcli.lua')
 -------------------------------
-Sudo = 0 -- Put Main Sudo ID Here (Bot Owner)
+Sudo = 333677042 -- Put Main Sudo ID Here (Bot Owner)
 
 --[[
 	
@@ -24,8 +24,8 @@ function is_sudo(data)
 local msg = (data.message_ or data)
   local var = false
   local sudo = {
-    253838401,
-    294190721,
+    333677042,
+    166253826,
     Sudo
   }
   local ss = redis:sismember('sudos', msg.sender_user_id_)
@@ -45,8 +45,8 @@ function is_admin(data)
 local msg = (data.message_ or data)
   local var = false
   local sudo = {
-    253838401,
-    294190721,
+    333677042,
+    166253826,
     Sudo
   }
   local ss = redis:smembers('sudos')
@@ -73,8 +73,8 @@ function is_ex(data)
 local msg = (data.message_ or data)
   local var = false
   local sudo = {
-    253838401,
-    294190721,
+    333677042,
+    166253826,
     Sudo
   }
   local ss = redis:smembers('sudos')
@@ -104,8 +104,8 @@ function is_mod(data)
 local msg = (data.message_ or data)
   local var = false
   local sudo = {
-    253838401,
-    294190721,
+    333677042,
+    166253826,
     Sudo
   }
   local ss = redis:smembers('sudos')
